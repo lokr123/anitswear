@@ -12,7 +12,7 @@
 
 # Bot Pics
 
-
+[![Run on Repl.it](https://repl.it/badge/github/Darkboy-js/anitswear)](https://repl.it/github/Darkboy-js/anitswear)
 
 <img src="https://image.prntscr.com/image/pmqG8RzpS9mw3oDO9lJAFQ.png" alt="Bot Preview">
 - Another Images
